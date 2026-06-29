@@ -1,6 +1,6 @@
-Satellite Image Road Extraction
+***Satellite Image Road Extraction***
 
-This repository contains a localized proof-of-concept for extracting road networks from satellite imagery using semantic segmentation. The project was developed as an educational capstone to explore the transition from traditional machine learning to deep learning for spatial data.
+This repository contains a **localized proof-of-concept** for extracting road networks from satellite imagery using semantic segmentation. The project was developed as an educational capstone to explore the transition from traditional machine learning to deep learning for spatial data.
 
 Dataset
 
